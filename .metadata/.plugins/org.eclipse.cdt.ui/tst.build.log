@@ -1,0 +1,10 @@
+22:20:19 **** インクリメンタル・ビルド of configuration Debug for project tst ****
+make -j12 all 
+arm-none-eabi-size   tst.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13104	     20	   1844	  14968	   3a78	tst.elf
+Finished building: default.size.stdout
+ 
+
+22:20:19 Build Finished. 0 errors, 0 warnings. (経過 327ms)
+

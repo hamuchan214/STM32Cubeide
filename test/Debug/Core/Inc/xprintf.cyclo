@@ -1,0 +1,15 @@
+../Core/Inc/xprintf.c:26:6:init_xprintf	1
+../Core/Inc/xprintf.c:31:9:uart_getc	1
+../Core/Inc/xprintf.c:39:6:uart_putc	1
+../Core/Inc/xprintf.c:45:6:uart_puts	2
+../Core/Inc/xprintf.c:52:6:xputc	4
+../Core/Inc/xprintf.c:70:6:xputs	2
+../Core/Inc/xprintf.c:79:6:xfputs	2
+../Core/Inc/xprintf.c:114:6:xvprintf	35
+../Core/Inc/xprintf.c:191:6:xprintf	1
+../Core/Inc/xprintf.c:205:6:xsprintf	1
+../Core/Inc/xprintf.c:225:6:xfprintf	1
+../Core/Inc/xprintf.c:251:6:put_dump	11
+../Core/Inc/xprintf.c:303:5:xgets	8
+../Core/Inc/xprintf.c:334:5:xfgets	1
+../Core/Inc/xprintf.c:365:5:xatoi	17
